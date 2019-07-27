@@ -1,0 +1,29 @@
+,
+    "Plugins": [
+      "plugins/plugins-api"
+    ],
+    "Scripting": [
+      "scripting/scripting-api"
+    ],
+	"Usage": [
+		"usage/guide",
+		"usage/examples"
+	],
+    "FAQ": "faq/faq",
+    "Other": [
+      {
+        "type": "subcategory",
+        "label": "Protocol",
+        "ids": [
+          "other/protocol/messages"
+        ]
+      },
+	  {
+        "type": "subcategory",
+        "label": "identifiers",
+        "ids": [
+          "other/identifiers/items",
+		  "other/identifiers/resources"
+        ]
+      }
+    ]

@@ -1,0 +1,40 @@
+{
+  "docs": {
+    "Introduction": [
+      "introduction/quick-start",
+      "introduction/installation",
+      "introduction/motivation",
+      "introduction/core",
+      "introduction/plugins",
+      "introduction/scripts"
+    ],
+	"Plugins": [
+      "plugins/plugins-api"
+    ],
+	"Scripting": [
+      "scripting/scripting-api"
+    ],
+	"Usage": [
+		"usage/guide",
+		"usage/examples"
+	],
+	"FAQ": ["faq"],
+	"Other": [
+      {
+        "type": "subcategory",
+        "label": "Protocol",
+        "ids": [
+          "other/protocol/messages"
+        ]
+      },
+	  {
+        "type": "subcategory",
+        "label": "Identifiers",
+        "ids": [
+          "other/identifiers/items",
+		  "other/identifiers/resources"
+        ]
+      }
+    ]
+  }
+}
