@@ -20,10 +20,9 @@ One of the core motivation for difys is to be run somewhere else and to minimize
 **Note**: we are still going to make a gui (both web and mobile), but it won't be made to be explicitly run on the same machine difys is running.
 ## Open-source benefits everyone
 
-There are no open source botting clients out there, atleast no clients that I'm aware of, Cookie closed their sources, and while it's completely understandable for them to close their sources, I disagree with the answer that they gave me to "Why not opensource"
+There are no open source botting clients out there, atleast no clients that I'm aware of.
 
->We had a conversation about this before I started difys, in the cookietouch server, I was wondering why they closed the source and this is the answer they gave me, and that added to my motivations to make difys a thing.
-Making something open source is nice and all, it got it ups and downs, you sure get the help of the community and it helps you build a better project, but in the same time you are exposing your code for others to edit and benefit from it privately, I dont see it as a bad thing because it was my choice in the beginning to make the project open source, I did that knowing the downs and I accepted them, as much as I want people to help, I also want them to make a better version, now, I did license it under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) tho, which means that every public version that came from difys MUST be opensource.
+>We had a conversation about this before I started difys, making something open source is nice and all, it got it ups and downs, you sure get the help of the community and it helps you build a better project, but in the same time you are exposing your code for others to edit and benefit from it privately, I dont see it as a bad thing because it was my choice in the beginning to make the project open source, I did that knowing the downs and I accepted them, as much as I want people to help, I also want them to make a better version, now, I did license it under [GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/) tho, which means that every public version that came from difys MUST be opensource.
 Choose a License
 >
 >TL DR: I know it sucks for people to use your code and make a better private version of it, but I knew that in the beginning and I accepted it, I cant whine about it now or close the source later when no one is contributing publicly

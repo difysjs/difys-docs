@@ -21,6 +21,9 @@
         "title": "Installation",
         "sidebar_label": "Installation"
       },
+      "introduction/modules": {
+        "title": "introduction/modules"
+      },
       "introduction/motivation": {
         "title": "Motivation",
         "sidebar_label": "Motivation"
@@ -62,6 +65,10 @@
         "sidebar_label": "Scripting API"
       },
       "usage/examples": {
+        "title": "Examples and tutorials",
+        "sidebar_label": "Examples and tutorials"
+      },
+      "usage/guide": {
         "title": "Usage guide",
         "sidebar_label": "Usage guide"
       }
