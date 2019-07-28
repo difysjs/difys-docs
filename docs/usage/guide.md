@@ -1,5 +1,5 @@
 ---
-id: examples
+id: guide
 title: Usage guide
 sidebar_label: Usage guide
 hide_title: true

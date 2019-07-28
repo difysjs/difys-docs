@@ -25,6 +25,10 @@
         "title": "Motivation",
         "sidebar_label": "Motivation"
       },
+      "introduction/partners": {
+        "title": "Partners",
+        "sidebar_label": "Our Partners"
+      },
       "introduction/plugins": {
         "title": "Plugins",
         "sidebar_label": "Plugins"

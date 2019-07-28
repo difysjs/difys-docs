@@ -10,7 +10,7 @@ require('dotenv').config()
 // site configuration options.
 
 const siteConfig = {
-	title: "difys", // Title for your website.
+	title: "difys docs", // Title for your website.
 	tagline: "Touch botting framework",
 	url: "https://difysjs.github.io", // Your website URL
 	baseUrl: "/",
@@ -40,8 +40,8 @@ const siteConfig = {
 	//users,
 
 	/* path to images for header/footer */
-	headerIcon: "img/favicon.ico",
-	footerIcon: "img/favicon.ico",
+	headerIcon: "img/difys.svg",
+	footerIcon: "img/difys.svg",
 	favicon: "img/favicon.ico",
 
 	/* Colors for website */

@@ -9,18 +9,20 @@ header.postHeader:empty + article h1 {
 }
 
 a {
-  /* blue links - kickin' it old-school! */
-  color: blue;
+	color: rgb(75, 78, 255);
 }
 
-a:hover {
-  /* add underlines for a11y */
+article a:hover,
+article a:focus,
+article a:active {
+  /* change color and bg to display state change in more than one way for a11y */
+  background-color: #272727;
+  color: white;
+  box-shadow: 0 0 0 2px black;
+  outline: none;
   text-decoration: underline;
 }
 
-a:visited {
-  color: $primaryColor;
-}
 
 .fixedHeaderContainer header .headerTitleWithLogo {
   color : white;

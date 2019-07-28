@@ -3,6 +3,7 @@
     "Introduction": [
       "introduction/quick-start",
       "introduction/installation",
+	  "introduction/configuration",
       "introduction/motivation",
       "introduction/core",
       "introduction/plugins",
