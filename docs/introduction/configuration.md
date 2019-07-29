@@ -54,7 +54,7 @@ An account is an object inside the accountList.
 * `false`: difys will check the server and the character and tries to connect you to it.
 
 ### `proxy` string
-If you want, you can specify a proxy. We highly recommend using proxies, check our [usage guide](/usage/guide.md) to help secure yourself against bans
+If you want, you can specify a proxy. We highly recommend using proxies, check our [usage guide](../usage/guide.md) to help secure yourself against bans
 
 ## General
 `~/src/Config/general.js`

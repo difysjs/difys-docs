@@ -11,7 +11,8 @@
       "introduction/scripts"
     ],
 	"Plugins": [
-      "plugins/plugins-api"
+      "plugins/plugins-api",
+	  "plugins/tips"
     ],
 	"Scripting": [
       "scripting/scripting-api"
@@ -26,7 +27,8 @@
         "type": "subcategory",
         "label": "Protocol",
         "ids": [
-          "other/protocol/messages"
+          "other/protocol/messages",
+		  "other/protocol/guide"
         ]
       },
 	  {
