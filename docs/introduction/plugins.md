@@ -1,11 +1,11 @@
 ---
-id: plugins
-title: Plugins
-sidebar_label: Plugins
+id: plugins-basic
+title: Plugins - Basic
+sidebar_label: Plugins - Basic
 hide_title: true
 ---
 
-# Plugins
+# Plugins - Basic tutorial
 
 Plugins are one of the core aspect difys is built on, you could see difys as an empty vessel without plugins.
 
@@ -174,6 +174,7 @@ class Chat {
 		this.exports = []
 		this.connections = {}
 	}
+	// mount method here
 	ChatServerMessage(payload) {
 		const sender = payload.data.senderName;
 		const content = payload.data.content;
@@ -234,7 +235,7 @@ export default Chat;
 
 And you're done! You've made your first plugin :)
 
-Now, this is a basic introduction to plugins, if you want a more advanced tutorial, where we talk about `exports` to add scripting functionalities and using the difys `logger` library, head out to the [Plugins API](../plugins/plugins-api) page
+Now, this is a basic introduction to plugins, if you want a more advanced tutorial, where we talk about `exports` to add scripting functionalities and using the difys `logger` library, head out to the [Plugins - Advanced](../plugins/plugins-advanced) page
 
 
 

@@ -11,8 +11,10 @@
       "introduction/scripts"
     ],
 	"Plugins": [
-      "plugins/plugins-api",
-	  "plugins/tips"
+		"plugins/plugins-advanced",
+		"plugins/redux-plugins",
+		"plugins/plugins-api",
+		"plugins/tips"
     ],
 	"Scripting": [
       "scripting/scripting-api"
