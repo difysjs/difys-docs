@@ -1,46 +1,29 @@
 {
-  "docs": {
-    "Introduction": [
-      "introduction/quick-start",
-      "introduction/installation",
-	  "introduction/configuration",
-      "introduction/motivation",
-	  "introduction/partners",
-      "introduction/core",
-      "introduction/plugins",
-      "introduction/scripts"
-    ],
-	"Plugins": [
-		"plugins/plugins-advanced",
-		"plugins/redux-plugins",
-		"plugins/plugins-api",
-		"plugins/tips"
-    ],
-	"Scripting": [
-      "scripting/scripting-api"
-    ],
-	"Usage": [
-		"usage/guide",
-		"usage/examples"
-	],
-	"FAQ": ["faq"],
-	"Other": [
-      {
-        "type": "subcategory",
-        "label": "Protocol",
-        "ids": [
-          "other/protocol/messages",
-		  "other/protocol/guide"
-        ]
-      },
-	  {
-        "type": "subcategory",
-        "label": "Identifiers",
-        "ids": [
-          "other/identifiers/items",
-		  "other/identifiers/resources"
-        ]
-      }
-    ]
-  }
+	"docs": {
+		"Introduction": [
+			"introduction/quick-start",
+			"introduction/installation",
+			"introduction/configuration",
+			"introduction/motivation",
+			"introduction/partners",
+			"introduction/core",
+			"introduction/plugins",
+			"introduction/scripts"
+		],
+		"Plugins": [
+			"plugins/plugins-advanced",
+			"plugins/redux-plugins",
+			"plugins/tips"
+		],
+		"Scripting": ["scripting/scripting-api"],
+		"Usage": ["usage/guide", "usage/examples"],
+		"FAQ": ["faq"],
+		"Other": [
+			{
+				"type": "subcategory",
+				"label": "Protocol",
+				"ids": ["other/protocol/messages", "other/protocol/socket"]
+			}
+		]
+	}
 }

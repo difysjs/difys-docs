@@ -32,7 +32,7 @@
         "title": "Partners",
         "sidebar_label": "Our Partners"
       },
-      "introduction/plugins-basic": {
+      "introduction/plugins": {
         "title": "Plugins - Basic",
         "sidebar_label": "Plugins - Basic"
       },
@@ -44,29 +44,17 @@
         "title": "Scripts",
         "sidebar_label": "Scripts"
       },
-      "other/identifiers/items": {
-        "title": "Items identifiers table",
-        "sidebar_label": "Items identifiers table"
-      },
-      "other/identifiers/resources": {
-        "title": "Resources identifiers table",
-        "sidebar_label": "Resources identifiers table"
-      },
       "other/protocol/messages": {
         "title": "Socket messages",
         "sidebar_label": "Socket messages"
       },
       "other/protocol/socket": {
-        "title": "Touch socket",
-        "sidebar_label": "Touch socket"
+        "title": "Game socket",
+        "sidebar_label": "Game socket"
       },
       "plugins/plugins-advanced": {
         "title": "Plugins - Advanced",
         "sidebar_label": "Plugins - Advanced"
-      },
-      "plugins/plugins-api": {
-        "title": "Plugin API",
-        "sidebar_label": "Plugin API"
       },
       "plugins/redux-plugins": {
         "title": "Redux & Plugins",
@@ -91,7 +79,7 @@
     },
     "links": {
       "Quick Start": "Quick Start",
-      "API": "API",
+      "Advanced Plugins": "Advanced Plugins",
       "Github": "Github"
     },
     "categories": {

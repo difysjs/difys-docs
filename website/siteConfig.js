@@ -29,7 +29,7 @@ const siteConfig = {
 	// For no header links in the top nav bar -> headerLinks: [],
 	headerLinks: [
 		{ doc: 'introduction/quick-start', label: 'Quick Start' },
-		{ doc: 'plugins/plugins-api', label: 'API' },
+		{ doc: 'plugins/plugins-advanced', label: 'Advanced Plugins' },
 		{
 			href: 'https://www.github.com/difysjs/difys',
 			label: 'Github'
