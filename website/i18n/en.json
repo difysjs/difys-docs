@@ -33,8 +33,8 @@
         "sidebar_label": "Our Partners"
       },
       "introduction/plugins": {
-        "title": "Plugins - Basic",
-        "sidebar_label": "Plugins - Basic"
+        "title": "Plugins",
+        "sidebar_label": "Plugins"
       },
       "introduction/quick-start": {
         "title": "Quick Start",
@@ -52,18 +52,6 @@
         "title": "Game socket",
         "sidebar_label": "Game socket"
       },
-      "plugins/plugins-advanced": {
-        "title": "Plugins - Advanced",
-        "sidebar_label": "Plugins - Advanced"
-      },
-      "plugins/redux-plugins": {
-        "title": "Redux & Plugins",
-        "sidebar_label": "Redux & Plugins"
-      },
-      "plugins/tips": {
-        "title": "Tips and tricks",
-        "sidebar_label": "Tips and tricks"
-      },
       "scripting/scripting-api": {
         "title": "Scripting API",
         "sidebar_label": "Scripting API"
@@ -79,12 +67,10 @@
     },
     "links": {
       "Quick Start": "Quick Start",
-      "Advanced Plugins": "Advanced Plugins",
       "Github": "Github"
     },
     "categories": {
       "Introduction": "Introduction",
-      "Plugins": "Plugins",
       "Scripting": "Scripting",
       "Usage": "Usage",
       "FAQ": "FAQ",

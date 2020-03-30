@@ -10,19 +10,24 @@
 			"introduction/plugins",
 			"introduction/scripts"
 		],
-		"Plugins": [
-			"plugins/plugins-advanced",
-			"plugins/redux-plugins",
-			"plugins/tips"
+		"Scripting": [
+			"scripting/scripting-api"
 		],
-		"Scripting": ["scripting/scripting-api"],
-		"Usage": ["usage/guide", "usage/examples"],
-		"FAQ": ["faq"],
+		"Usage": [
+			"usage/guide",
+			"usage/examples"
+		],
+		"FAQ": [
+			"faq"
+		],
 		"Other": [
 			{
 				"type": "subcategory",
 				"label": "Protocol",
-				"ids": ["other/protocol/messages", "other/protocol/socket"]
+				"ids": [
+					"other/protocol/messages",
+					"other/protocol/socket"
+				]
 			}
 		]
 	}

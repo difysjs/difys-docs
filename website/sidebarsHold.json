@@ -1,14 +1,22 @@
 {
-	"Introduction": ["introduction/quick-start"],
-	"Plugins": ["plugins/plugins-advanced"],
-	"Scripting": ["scripting/scripting-api"],
-	"Usage": ["usage/guide", "usage/examples"],
+	"Introduction": [
+		"introduction/quick-start"
+	],
+	"Scripting": [
+		"scripting/scripting-api"
+	],
+	"Usage": [
+		"usage/guide",
+		"usage/examples"
+	],
 	"FAQ": "faq/faq",
 	"Other": [
 		{
 			"type": "subcategory",
 			"label": "Protocol",
-			"ids": ["other/protocol/messages"]
+			"ids": [
+				"other/protocol/messages"
+			]
 		}
 	]
 }

@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (
     bounding.top >= 0 &&
     bounding.bottom <=
-      (window.innerHeight || document.documentElement.clientHeight)
+    (window.innerHeight || document.documentElement.clientHeight)
   ) {
     // Already visible.  Do nothing.
   } else {
